@@ -49,9 +49,10 @@ const Receta = ({ receta }) => {
     let ingredientes = [];
 
     for (let i = 1; i < 16; i++) {
-      if ( informacion[`strIngredients${i}`]) {
+      console.log(informacion);
+      if (informacion[`strIngredient${i}`]) {
         ingredientes.push(
-          <li>{ informacion[`strIngredients${i}`] } { informacion[`strIngredients${i}`] }</li>
+          <li key={informacion[`strIngredient${i}`]} >{informacion[`strIngredient${i}`]} - {informacion[`strMeasure${i}`]}</li>
         );
       }
     }
