@@ -1,4 +1,4 @@
-##App para mostrar diferentes bebidas, consumiendo información desde una api
+## App para mostrar diferentes bebidas, consumiendo información desde una api
 demo: https://romantic-mccarthy-74c88a.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
