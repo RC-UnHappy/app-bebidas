@@ -1,5 +1,5 @@
 ## App para mostrar diferentes bebidas, consumiendo información desde una api
-Demo: <a target="_blank" href="https://romantic-mccarthy-74c88a.netlify.app/" >Haz click aquí</a>
+Demo: <a href="https://romantic-mccarthy-74c88a.netlify.app/" target="_blank" >Haz click aquí</a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
